@@ -33,6 +33,8 @@ Before opening the CAD files, please note:
  - T-Nuts for the extrusions are not included in the model(complexity reasons)
  - Belts and teflon tube are not included in the model(complexity reasons)
  - The rasberry pi and case are not included in the model(complexity reasons and it's an entirely seperate device connected to the printer)
+ - The Octopus v1.1 is not included(do to complexity, meaning lag reasons)
+ - The idlers are all smooth to reduce complexity in modeling, the ones in the x carriage are toothed and the ones in the idler blocks are smooth
 
 
 ### <a href="https://cad.onshape.com/documents/cc22fae3a41d1b35fbb4d10a/w/27f7108179307e350a4ce97b/e/54f56ee9e3916d8b65554994">CAD in onshape</a>
