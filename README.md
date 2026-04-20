@@ -1,4 +1,4 @@
-<img width="3440" height="1440" alt="Title" src="https://github.com/user-attachments/assets/00cb8aad-9b28-474e-a352-89c961f5e7cd" />
+<img width="3440" alt="Title" src="https://github.com/user-attachments/assets/00cb8aad-9b28-474e-a352-89c961f5e7cd" />
 <p>A 3D printer that works</p>
 
 ## The Origin
@@ -23,7 +23,7 @@ EBO(Easy Bork Oven) Is built with purely klipper in mind. It's equipped with the
  - Controlled in a web browser with Klipper
 
 ## CAD and CAD Notes
-<img width="3046" height="1057" alt="image" src="https://github.com/user-attachments/assets/df4ea63e-d143-4204-ae3a-0af9e1f29b29" />
+<img width="3046" alt="image" src="https://github.com/user-attachments/assets/df4ea63e-d143-4204-ae3a-0af9e1f29b29" />
 Before opening the CAD files, please note:
 
  - There are several models that are designed to be representing parts with less complexity, for example a cylinder in place of a T80 threaded rod
